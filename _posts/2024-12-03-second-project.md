@@ -3,7 +3,6 @@ layout: post
 title: MiniWappi
 subtitle: My Second Project
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [project, software, web, react]
 comments: true
 mathjax: true
