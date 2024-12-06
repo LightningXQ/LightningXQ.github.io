@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [project, software, web, react]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Jiho Jeong
 ---
 
 {: .box-success}
