@@ -2,7 +2,7 @@
 layout: post
 title: MiniWapp
 subtitle: Second Project
-thumbnail-img: /assets/img/web.jpg
+thumbnail-img: /assets/img/favicon.ico
 gh-repo: daattali/beautiful-jekyll
 tags: [project, software, web, react]
 author: Jiho Jeong
