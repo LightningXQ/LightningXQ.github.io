@@ -10,3 +10,6 @@ author: Jiho Jeong
 ---
 
 VALAGA - GALAGA by Verilog
+
+GitHub: https://github.com/pknu-wap/2024_2_Verilog
+If you have FPGA, try to run this project!
