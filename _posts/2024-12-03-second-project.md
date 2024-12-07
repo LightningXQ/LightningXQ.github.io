@@ -8,7 +8,7 @@ tags: [project, software, web, react]
 author: Jiho Jeong
 ---
 
-Miniwapp - Micro-blog Service for WAP
+Miniwapp - Microblog Service for WAP
 
 GitHub: https://github.com/pknu-wap/miniwapp  
 Page(not supported): https://miniwapp.netlify.app/
