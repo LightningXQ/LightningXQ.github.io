@@ -7,7 +7,6 @@ gh-repo: daattali/beautiful-jekyll
 tags: [project, software, web, react]
 author: Jiho Jeong
 ---
-
 Miniwapp - Micro-blog Service for WAP
 
 GitHub: https://github.com/pknu-wap/miniwapp  
