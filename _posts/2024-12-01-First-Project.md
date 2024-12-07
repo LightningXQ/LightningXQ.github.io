@@ -2,7 +2,7 @@
 layout: post
 title: The Pearl of Siphenisia
 subtitle: First Project
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/abyss.jpg
 thumbnail-img: /assets/img/unity.png
 share-img: /assets/img/path.jpg
 tags: [project, software, game, unity]
