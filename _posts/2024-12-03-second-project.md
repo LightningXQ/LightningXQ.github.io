@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MiniWappi
-subtitle: My Second Project
+subtitle: Second Project
 gh-repo: daattali/beautiful-jekyll
 tags: [project, software, web, react]
 author: Jiho Jeong
