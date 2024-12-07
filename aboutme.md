@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Is this my Résumé?
 ---
 
-My name is Ji Ho Jeong. I have the following qualities:
+My name is Jiho Jeong. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- 3rd year, Computer Engineering, Pukyong Nat'l Univ.
+- 3 projects in WAP
+- FAN OF MINECRAFT.JE
 
 ### My story
 
-Software Enginner
+just getting started...
