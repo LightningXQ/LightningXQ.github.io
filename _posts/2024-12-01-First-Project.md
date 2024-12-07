@@ -3,7 +3,7 @@ layout: post
 title: The Pearl of Siphenisia
 subtitle: First Project
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/unity.png
 share-img: /assets/img/path.jpg
 tags: [project, software, game, unity]
 author: Jiho Jeong
